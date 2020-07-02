@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/25 14:52:59.000.500,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit21.pas</Transaction>
+    <Transaction>2020/06/29 16:55:33.000.277,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit21.pas</Transaction>
+    <Transaction>2020/07/02 11:20:35.000.441,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit21.pas</Transaction>
+    <Transaction>2020/07/02 16:33:17.176,=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit21.pas</Transaction>
+    <Transaction>2020/07/02 16:34:33.264,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Eltech\MainFormU.pas=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit21.pas</Transaction>
+    <Transaction>2020/07/02 16:34:33.264,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Eltech\MainFormU.fmx=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Unit21.fmx</Transaction>
+    <Transaction>2020/07/02 16:34:43.311,C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Eltech\FaceScan.dproj=C:\Users\Asus\Documents\Embarcadero\Studio\Projects\Project18.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
